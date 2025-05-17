@@ -8,7 +8,8 @@ The due date for issued books is computed with datetime.timedelta (adding 14 day
 
 
 
-I have uses bcrypt for password hashing to installed it # (pip install bcrypt).
+This project uses bcrypt for secure password hashing.
+#To install it, open your terminal and run:- pip install bcrypt
 
 # Run the app with :- python main.py --data-dir mydata
 
