@@ -8,8 +8,8 @@ The due date for issued books is computed with datetime.timedelta (adding 14 day
 
 
 
-I have uses bcrypt for password hashing to installed it #(pip install bcrypt).
+I have uses bcrypt for password hashing to installed it # (pip install bcrypt).
 
-#Run the app with :- python main.py --data-dir mydata
+# Run the app with :- python main.py --data-dir mydata
 
 Note for me only :- python main.py --data-dir mydata to use a specific data folder we can replace mydata with data also 
