@@ -1,0 +1,3 @@
+MemberID,Name,Email,PasswordHash,Role
+1234,Kshitij,kshitijlalge@gmail.com,b'$2b$12$mRBC9xDcFDjAU/bTC524reWYfdEdS45bvPw9EV8rkot/f9Jurz6Sa',Member
+01,admin,admin@gmail.com,b'$2b$12$sALLjmUwjsKEXyPJu2nCceKPHMlFlVSyWbh3tsOUMvGXWq4T6F9uq',Librarian
